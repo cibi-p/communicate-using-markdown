@@ -11,3 +11,7 @@ var a=10;
 var b=20;
 var c=a+b;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
